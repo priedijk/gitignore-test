@@ -1,7 +1,7 @@
 node_modules/
 z*
 .env
-artifacts/
+/artifacts/
 
 #Edit the .gitignore file at the root of the repository so that it meets the following conditions:
 #Ignores all files starting with the letter z.
